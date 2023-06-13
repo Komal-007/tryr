@@ -1,0 +1,65 @@
+body{
+    background-image: url("gradient-1674488321158-250.jpg");
+}
+heading{
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    margin:0;
+}
+button{
+    width:50%;
+    font-size: 100%;
+    margin: 5%;
+    background-color: pink;
+}
+.bubble{
+    border-radius: 90%;
+    position: absolute;
+    border: none;
+    color:rgba(240, 248, 255, 0) 
+}
+.bubble:hover{
+   cursor: default;
+    border: none;
+    outline: none;
+}
+h1{ margin: 1px;
+    font-size: 60px;
+}
+#b1, #b3, #b5,#b7,#b9{
+    width:100px;
+    height: 100px;
+}
+#b2 ,#b4, #b6 , #b8{
+    width:30px;
+    height: 30px;
+}
+#b1{
+    background-color: rgba(127, 255, 255, 0.034);    
+}
+#b2{
+    background-color: rgba(127, 255, 255, 0.05); 
+}
+#b3{
+    background-color: rgba(127, 255, 255, 0.034);  
+}
+#b4{
+    background-color: rgba(127, 255, 255, 0.3);   
+}
+#b5{
+    background-color: rgba(127, 255, 255, 0.08);
+}
+#b6{
+    background-color: rgba(127, 255, 255, 0.07);   
+}
+#b7{
+    background-color: rgba(127, 255, 255, 0.05);  
+}
+#b8{
+    background-color: rgba(127, 255, 255, 0.06);   
+}
+#b9{
+    background-color: rgba(127, 255, 255, 0.066);   
+}
